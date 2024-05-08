@@ -5,7 +5,7 @@
   
 
 
-I'm a software developer with more than 4 years of experience. I have completed many projects using multiple technologies
+I'm a software developer with more than 4 years of experience. I have completed many projects using multiple technologies, and helped complete integrated projects
 
 - 🔭 Laravel
 - 🔍 Vuejs
